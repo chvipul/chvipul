@@ -34,7 +34,6 @@ src="https://img.shields.io/github/followers/chvipul?logo=github&style=for-the-b
 ### Badges
 
 <b>My GitHub Stats</b>
-
 <a href="http://www.github.com/chvipul"><img src="https://github-readme-stats.vercel.app/api?username=chvipul&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=facc15&icon_color=6366f1&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="chvipul's GitHub stats" /></a>
 
 ### Support Me
