@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Devops Engineer
 ---------------
 
-Skilled DevOps Engineer with 3+ years of hands-on experience supporting, automating, and optimizing, orchestrating containers within Docker and Kubernetes, mission-critical deployments in AWS, leveraging configuration management, CI/CD, and DevOps processes. Configuration management using Ansible of Python
+Skilled DevOps Engineer with 6+ years of hands-on experience supporting, automating, and optimizing, orchestrating containers within Docker and Kubernetes, mission-critical deployments in AWS, leveraging configuration management, CI/CD, and DevOps processes. Configuration management using Ansible of Python
 
 * 🌍  I'm based in Hyderabad
 * 🧠  I'm learning Jenkins
