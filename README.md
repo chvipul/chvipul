@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Terraform and Ansible Playbooks<br>👯 I’m looking to collaborate on Jenkins, Docker , Kubernetes and <br>Azure Dev ops and Other Dev ops integrations and Migrations<br>🤝 I’m looking for help with Devlopment's in CICD code and Deployments<br>🌱 I’m currently learning AWS and GCP for Hybrid Cross platform Devops Integrations <br>💬 Ask me about Devops and Logics and Tools uses<br>⚡ Fun fact - Worked Fine in Dev - Ops problem now
+🔭 I’m currently working on AI Agents and RAG <br>👯 I’m looking to collaborate on LLMS , RAG , AI Automations , Devopstools , Kubernetes and <br>Google Cloud and Azure Dev ops and Other AI and Dev ops integrations and Migrations<br>🤝 I’m looking for help with Devlopment's in CICD code and Deployments<br>🌱 I’m currently learning AI Automations and LangGraphs and GCP for Hybrid Cross platform Integrations <br>💬 Ask me about AI Agents RAG and Devops Logics and Tools uses<br>⚡ Fun fact - Worked Fine in Dev - Ops problem now
 
 
 ## 🌐 Socials:
